@@ -1,8 +1,6 @@
-<h1>Hi, I'm Steven Sanchez</h1>
+<h1>Hi, I'm Steven Sánchez</h1>
 ### Hi there 👋
 
-!--
-**notseke/notseke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
