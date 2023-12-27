@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven Sánchez</h1>
+<h1>Hi👋, I'm Steven Sánchez</h1>
 ### Hi there 👋
 
 
