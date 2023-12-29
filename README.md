@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=notseke&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hello, I am 19 years old, over the last five years, my focus has been learning programming, starting in 2018, as well as acquiring skills in manipulating video editing software, including tools like Sony Vegas and Adobe After Effects from 2021.<br><br>You can reach out to me on Discord under the username "notseke."<br><br>I'm also learning new skills about Ux/UI design.
+Hello, I am 19 years old, over the last five years, my focus has been learning programming, starting in 2018, as well as acquiring skills in manipulating video editing software, including tools like Sony Vegas and Adobe After Effects from 2021.<br><br>You can reach out to me on Discord under the username "notseke."<br><br>I'm also learning new skills about UX/UI design.
 
 
 ## 🌐 Socials:
